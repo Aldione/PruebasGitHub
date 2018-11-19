@@ -8,6 +8,8 @@ public class Prueba {
 		
 		if (i>=1) {
 			System.out.println(exit);
+		}else {
+			System.out.println(i);
 		}
 
 	}
